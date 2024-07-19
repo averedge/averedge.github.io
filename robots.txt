@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://averedge.github.io/sitemap
+Sitemap: https://averedge.github.io/app/sitemap
+Sitemap: https://averedge.github.io/assets/sitemap
+Sitemap: https://averedge.github.io/css/sitemap
+Sitemap: https://averedge.github.io/includes/sitemap
+Sitemap: https://averedge.github.io/item/sitemap
+Sitemap: https://averedge.github.io/src/sitemap
